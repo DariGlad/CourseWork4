@@ -1,0 +1,11 @@
+venv/
+.idea/
+.*_cache/
+__pycache__
+*.db
+.coverage
+users.http
+.env
+.pytest_cache/
+.DS_Store/
+
